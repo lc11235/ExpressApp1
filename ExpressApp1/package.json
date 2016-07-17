@@ -7,8 +7,8 @@
   },
   "description": "ExpressApp1",
   "author": {
-    "name": "ACER",
-    "email": ""
+    "name": "authurli",
+    "email": "lc11235@qq.com"
   },
   "dependencies": {
     "express": "~4.9.0",
